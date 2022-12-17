@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"qlabel": "cpp",
+		"qdialog": "cpp",
+		"qspaceritem": "cpp",
+		"qhboxlayout": "cpp",
+		"qpaintevent": "cpp",
+		"qlineedit": "cpp",
+		"qspinbox": "cpp",
+		"cmath": "cpp",
+		"new": "cpp"
+	}
+}
